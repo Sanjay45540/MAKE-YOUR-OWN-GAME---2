@@ -1,1 +1,1 @@
-# MAKE-YOUR-OWN-GAME---2
+# Pacman-game-in-JavaScript
